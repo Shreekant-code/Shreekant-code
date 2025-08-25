@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Shreekant Yadav</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
@@ -5,12 +6,11 @@
   <img src="https://komarev.com/ghpvc/?username=shreekant-code&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<!-- Cool Coding GIF -->
+<!-- Coding boy GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="350" alt="Coding GIF" />
+  <img src="https://media.giphy.com/media/L0jZQ6ZxavTj6/giphy.gif" width="350" alt="Boy Coding GIF" />
 </p>
 
-<!-- GitHub Trophy -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shreekant-code&theme=radical" alt="shreekant-code" />
 </p>
