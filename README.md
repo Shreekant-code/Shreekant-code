@@ -39,18 +39,16 @@
 
 ### Connect with me:
 <p align="center">
-  <a href="https://linkedin.com/in/shreekant-yadav" target="_blank">
+<!--   <a href="https://linkedin.com/in/shreekant-yadav" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/shreekant_yadav" target="_blank">
+  </a> -->
+  <a href="https://x.com/Shreeka59762811?t=g-9P4lP_Wbf8C8Uui9U2nw&s=09" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/shreekant_yadav" target="_blank">
+  <a href="https://www.instagram.com/shre_ekant07?igsh=aTF3aG4xb3FyOHUx" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@yourchannel" target="_blank">
-    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
+ 
 </p>
 
 ---
