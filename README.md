@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Shreekant Yadav</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
@@ -5,92 +6,86 @@
   <img src="https://komarev.com/ghpvc/?username=shreekant-code&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+<!-- Coding boy GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="350" alt="Coding Animation" />
+  <img src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="350" alt="Boy Coding GIF" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shreekant-code&theme=radical" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shreekant-code&theme=radical" alt="shreekant-code" />
 </p>
 
 ---
 
 ### 🔭 I’m currently working on
-- [Job-Hunt Platform](https://job-hunt-by-shreekant.vercel.app/)
-- **Student Management Portal** (MERN Stack)
+[Job-hunt](https://job-hunt-by-shreekant.vercel.app/)
+<p>Student-Management-Portal</p>
 
 ### 🌱 I’m currently learning
-**React.js, Node.js, Express.js, TailwindCSS, Redux, Java**
+**React.js, Node.js, Express.js, Java, TailwindCSS, Redux**
 
 ### 👯 I’m looking to collaborate on
 [Open-source Projects](https://github.com/Shreekant-code)
 
-### 💻 Portfolio & Projects
-[View My Portfolio](https://my-portfolio-shreekant-yadav-07.vercel.app/)
+### 👨‍💻 All of my projects are available at
+[Portfolio](https://my-portfolio-shreekant-yadav-07.vercel.app/)
 
 ### 💬 Ask me about
-**React, Frontend Architecture, Performance Optimization, MERN Stack**
+**React, frontend architecture, performance optimization, MERN stack**
 
 ### 📫 How to reach me
 **shreekanty06@gmail.com**
 
 ---
 
-### 🔗 Connect with me
+### Connect with me:
 <p align="center">
-  <a href="https://x.com/Shreeka59762811" target="_blank">
+<!--   <a href="https://linkedin.com/in/shreekant-yadav" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> -->
+  <a href="https://x.com/Shreeka59762811?t=g-9P4lP_Wbf8C8Uui9U2nw&s=09" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/shre_ekant07" target="_blank">
+  <a href="https://www.instagram.com/shre_ekant07?igsh=aTF3aG4xb3FyOHUx" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/shreekant-yadav" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Shreekant-code" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+ 
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
+### Languages and Tools:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/render/render-original.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/render/render-original.svg" width="50" height="50"/>
 </p>
+
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreekant-code&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreekant-code&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shreekant-code&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreekant-code&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreekant-code&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreekant-code&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreekant-code&theme=radical" />
-</p>
-
----
-
-<p align="center">
-  Developed with ❤️ by <a href="https://my-portfolio-shreekant-yadav-07.vercel.app/">Shreekant Yadav</a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreekant-code&theme=radical" alt="Profile Summary" />
 </p>
